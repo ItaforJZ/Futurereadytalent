@@ -8,14 +8,14 @@ This is a web based application developed for the health related based website.
 
 ***Project link*** - https://agreeable-water-005703400.3.azurestaticapps.net
 
-***Project demo vedio link*** - 
+***Project demo vedio link*** - https://youtu.be/dFKtRcP5kF4
 
 ***Azure Technologies used for project***
 Static Web apps
 Azure Blob Storage
 
 ***Tech Stack***
-Azure(Hosting)
+Azure(Hosting) 
 HTML
 CSS
 Javascript
