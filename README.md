@@ -27,7 +27,7 @@ Bootstrap
 -Has many graphical and visual innovative effects.
 -Have an aesthetically pleasing visual design and architecture.
 -Has collection of many pages including Home,About us ,Contact ,Services.
--User can know about health information through this websiite.
+-User can know about health information through this website.
 
 ## Screenshots
 ![Screenshot (147)](https://github.com/ItaforJZ/Futurereadytalent/assets/107031739/3b3573c1-5095-463c-a727-7f811801833c)
